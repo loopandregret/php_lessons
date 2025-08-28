@@ -13,4 +13,3 @@ function sum() {
 
 sum();
 echo "Output: {$b}\n";
-?>

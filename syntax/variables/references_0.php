@@ -15,4 +15,3 @@ test_global_ref();
 var_dump($obj);
 test_global_noref();
 var_dump($obj);
-?>

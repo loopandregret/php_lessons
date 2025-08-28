@@ -12,4 +12,3 @@ function sum() {
 sum();
 echo "Variable 'a' is still {$a}\n";
 echo "Variable 'b' is now {$b}\n";
-?>

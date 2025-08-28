@@ -13,4 +13,3 @@ function exampleFunction($input) {
 // hence, persists only within anon function's instance.
 echo exampleFunction('A');
 echo exampleFunction('B');
-?>

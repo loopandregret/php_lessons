@@ -15,4 +15,3 @@ var_dump(Bar::counter());
 var_dump(Bar::counter());
 echo Foo::counter() . "\n";
 echo Bar::counter() . "\n";
-?>
