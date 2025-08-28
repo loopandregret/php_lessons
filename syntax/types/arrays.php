@@ -4,6 +4,7 @@ $array1 = array(
     'bar' => 'foo'
 );
 
+// associative arrays?
 $array2 = [
     'foo' => 'bar',
     'bar' => 'foo',
