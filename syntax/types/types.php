@@ -15,5 +15,5 @@ var_dump($an_int);
 if (is_string($a_bool)) {
     echo "String: $a_bool";
 } else if (is_bool($a_bool)) {
-    echo "Bool: $a_bool" . "\n";
+    echo "Bool: $a_bool\n";
 }
