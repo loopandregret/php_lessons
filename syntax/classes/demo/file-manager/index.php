@@ -30,8 +30,8 @@ switch ($command) {
 
     default:
         echo "Usage:\n";
-        echo "  php index.php list                              -> To list files\n";
-        echo "  php index.php create <filename> <content?>      -> To create a file with optional content\n";
-        echo "  php index.php read <filename>                   -> To read contents of a file\n";
-        echo "  php index.php delete <filename>                 -> To delete a file\n";
+        echo "      php index.php list                              -> To list files\n";
+        echo "      php index.php create <filename> <content?>      -> To create a file with optional content\n";
+        echo "      php index.php read <filename>                   -> To read contents of a file\n";
+        echo "      php index.php delete <filename>                 -> To delete a file\n";
 }
