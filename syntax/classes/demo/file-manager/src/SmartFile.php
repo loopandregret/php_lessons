@@ -1,7 +1,7 @@
 <?php
 namespace App;
 
-class Smartfile {
+class SmartFile {
     private $name;
     private $size;
     private $metadata = [];
